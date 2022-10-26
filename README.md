@@ -8,10 +8,10 @@ CSS
 HTML
 
 ### Authors
-👤 Author: Susana González
+👤 Author: Susana González Gallardo
 
 GitHub: @Zuz4n
-Twitter: @twitterhandle
+Twitter: @Suschen
 LinkedIn: Susana González
 
 ### 🤝 Contributing
