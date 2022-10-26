@@ -2,19 +2,30 @@
 # Hello-Microverse
 ## Microverse Greetings Web Page
 
-Built With
+### Built With
 CSS
 HTML
 
-Author: Susana Gonzalez
-GitHub: @Zuz4n
+### Authors
+👤 Author: Susana González
 
-🤝 Contributing
+GitHub: @Zuz4n
+Twitter: @twitterhandle
+LinkedIn: Susana González
+
+### 🤝 Contributing
 Contributions, issues, and feature requests are welcome!
 
 Feel free to check the issues page.
 
 *_Show your support_*
-Give a ⭐️ if you like this project!
+*_Give a ⭐️ if you like this project!_*
 
-📝 License: MIT licensed.
+### Acknowledgments
+Hat tip to anyone whose code was used
+Inspiration
+etc
+
+### 📝 License
+This project is MIT licensed.
+
