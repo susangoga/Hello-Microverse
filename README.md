@@ -8,11 +8,11 @@ CSS
 HTML
 
 ### Authors
-👤 Author: Susana González
+👤 Author: Susana González Gallardo
 
 GitHub: @Zuz4n
-Twitter: @twitterhandle
-LinkedIn: Susana González
+Twitter: @Suschen
+LinkedIn: siuxmicroverse@gmail.com
 
 ### 🤝 Contributing
 Contributions, issues, and feature requests are welcome!
